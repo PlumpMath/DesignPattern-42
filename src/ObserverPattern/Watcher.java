@@ -1,4 +1,4 @@
-package observer;
+package ObserverPattern;
 
 public class Watcher implements Obsever{
 

@@ -1,4 +1,4 @@
-package factory;
+package Factorypattern;
 
 public class BlackHuman implements Human {
 
