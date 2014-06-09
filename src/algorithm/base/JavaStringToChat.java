@@ -25,7 +25,8 @@ public class JavaStringToChat {
 		//对对应的数组排序
 		Arrays.sort(a);
 		//将char数组转换成字符串
-		String chatToString=Arrays.toString(mchar);
+		//String chatToString=Arrays.toString(mchar);
+		String chatToString=String.valueOf(mchar);
 		//数组大小
 		int int_length=a.length;
 		//字符串长度
